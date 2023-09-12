@@ -8,4 +8,9 @@ string firstName = Console.ReadLine();
 Console.WriteLine("Please enter your Last Name");
 string lastName = Console.ReadLine();
 
+
+Console.WriteLine("Please enter your Last Name");
+string lstName = Console.ReadLine();
+
+
 Console.WriteLine("Hello " + firstName + " " + lastName);
